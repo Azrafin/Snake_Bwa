@@ -1,0 +1,6 @@
+{
+  "name": "The Maze Pursuit",
+  "description": "A stealth turn-based AI system demonstrating informed/uninformed search algorithms and Minimax with Fog of War.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
